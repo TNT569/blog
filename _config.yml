@@ -103,6 +103,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/tnt569/blog #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: git@github.com:TNT569/blog.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: blog
   message: Update blog
