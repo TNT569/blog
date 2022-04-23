@@ -106,3 +106,7 @@ deploy:
   repo: git@github.com:TNT569/blog.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: blog
   message: Update blog
+# Markdown
+marked:
+  prependRoot: true
+  postAsset: true
